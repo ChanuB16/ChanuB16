@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working as a Student  
-👯 I’m looking to collaborate on any Tech Company  
-🤝 I’m looking for help with my work  
-🌱 I’m currently learning @ SLIIT  
-💬 Ask me about anything you want  
-⚡ Let's connect and build something amazing
+🎓 I'm a Information Systems Engineering undergraduate student at SLIIT  
+💻 I’m open to collaborating with tech companies  
+🤝 I’m looking for guidance and mentorship in my work 
+🚀 Passionate about learning, building, and growing in tech 
+💡 Always curious—ask me anything!   
+🌟 Let’s connect and create something impactful
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/14qVt17GvT/?mibextid=wwXIfr) 
