@@ -7,7 +7,7 @@
 
 🚀 Passionate about learning, building, and growing in tech
 
-💡 Always curious—ask me anything! 
+💡 Always curious ask me anything! 
 
 🌟 Let’s connect and create something impactful
 
