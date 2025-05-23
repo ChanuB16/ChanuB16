@@ -2,8 +2,8 @@
 🎓 I'm a Information Systems Engineering undergraduate student at SLIIT  
 💻 I’m open to collaborating with tech companies  
 🤝 I’m looking for guidance and mentorship in my work
-🚀 Passionate about learning, building, and growing in tech
-💡 Always curious—ask me anything!   
+ 🚀 Passionate about learning, building, and growing in tech
+ 💡 Always curious—ask me anything!   
 🌟 Let’s connect and create something impactful
 
 ## 🌐 Socials:
